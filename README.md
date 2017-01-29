@@ -29,24 +29,24 @@ This is the initial set up completed and you can install the following mods as d
 
 #### Character Creation Mods
 
-*[Alternate Start](http://www.nexusmods.com/skyrimspecialedition/mods/272/?)
-*[Character Creation Makeover](http://www.nexusmods.com/skyrimspecialedition/mods/1037/?)
-*[UNP Body Replacer](http://www.nexusmods.com/skyrimspecialedition/mods/1699/?)
-*[UNP Body Fit Armors](http://www.nexusmods.com/skyrimspecialedition/mods/1250/?)
+* [Alternate Start](http://www.nexusmods.com/skyrimspecialedition/mods/272/?)
+* [Character Creation Makeover](http://www.nexusmods.com/skyrimspecialedition/mods/1037/?)
+* [UNP Body Replacer](http://www.nexusmods.com/skyrimspecialedition/mods/1699/?)
+* [UNP Body Fit Armors](http://www.nexusmods.com/skyrimspecialedition/mods/1250/?)
 
 #### Immersion Mods
 
-*[Static Mesh Improvement](http://www.nexusmods.com/skyrimspecialedition/mods/659/?)
-*[Immersive Armours](http://www.nexusmods.com/skyrimspecialedition/mods/3479/?)
-*[Skyrim Flora Overhaul SE](http://www.nexusmods.com/skyrimspecialedition/mods/2154/?)
-*[Realistic Lighting](http://www.nexusmods.com/skyrimspecialedition/mods/844/?)
-*[Realistic Water](http://www.nexusmods.com/skyrimspecialedition/mods/2182/?)
-*[Quality World Map](http://www.nexusmods.com/skyrimspecialedition/mods/5804/?)
-*[Lanterns](http://www.nexusmods.com/skyrimspecialedition/mods/2429/?)
+* [Static Mesh Improvement](http://www.nexusmods.com/skyrimspecialedition/mods/659/?)
+* [Immersive Armours](http://www.nexusmods.com/skyrimspecialedition/mods/3479/?)
+* [Skyrim Flora Overhaul SE](http://www.nexusmods.com/skyrimspecialedition/mods/2154/?)
+* [Realistic Lighting](http://www.nexusmods.com/skyrimspecialedition/mods/844/?)
+* [Realistic Water](http://www.nexusmods.com/skyrimspecialedition/mods/2182/?)
+* [Quality World Map](http://www.nexusmods.com/skyrimspecialedition/mods/5804/?)
+* [Lanterns](http://www.nexusmods.com/skyrimspecialedition/mods/2429/?)
 
 #### Item Mods
 
-*[Rustic Clothing](http://www.nexusmods.com/skyrimspecialedition/mods/4703/?)
+* [Rustic Clothing](http://www.nexusmods.com/skyrimspecialedition/mods/4703/?)
 
 ---------------------------------------
 
