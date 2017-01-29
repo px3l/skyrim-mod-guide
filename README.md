@@ -43,37 +43,40 @@ This is the initial set up completed and you can install the following mods as d
 * [Realistic Water](http://www.nexusmods.com/skyrimspecialedition/mods/2182/?)
 * [Quality World Map](http://www.nexusmods.com/skyrimspecialedition/mods/5804/?)
 * [Lanterns](http://www.nexusmods.com/skyrimspecialedition/mods/2429/?)
+* [Book Covers](http://www.nexusmods.com/skyrimspecialedition/mods/901/?)
 
 #### Item Mods
 
 * [Rustic Clothing](http://www.nexusmods.com/skyrimspecialedition/mods/4703/?)
-
----------------------------------------
+* [Unique Uniques](http://www.nexusmods.com/skyrimspecialedition/mods/3334/?)
 
 ## Load Order
 
 Once you have downloaded all the mods, install them with NMM in the order above then open LOOT and click `sort order`. It should put them in the order below:
+
 ```
-1. Skyrim.esm
-2. Update.esm
-3. Dawnguard.esm
-4. Hearthfire.esm
-5. Dragonborn.esm
-6. Lanterns Of Skyrim - All In One - Main.esm
-7. Unofficial Skyrim Special Edition Patch.esp
-8. SMIM-SE-Merged-All.esp
-9. SGEyebrows.esp
-10. Hothtrooper44_Armor_Ecksstra.esp
-11. Realistic Lighting Overhaul - Major City Interiors.esp
-12. Realistic Lighting Overhaul - Minor Cities and Town Interiors.esp
-13. RealisticWaterTwo.esp
-14. Realistic Lighting Overhaul - Major City Exteriors.esp
-15. Realistic Lighting Overhaul - Dawnguard Interiors.esp
-16. Realistic Lighting Overhaul - Dungeons.esp
-17. Hothtrooper44_ArmorCompilation.esp
-18. Skyrim Flora Overhaul.esp
-19. Realistic Lighting Overhaul - Weathers.esp
-20. Realistic Lighting Overhaul - Dawnguard Weathers.esp
-21. IcePenguinWorldMap.esp
-22. Alternate Start - Live Another Life.esp
+00. Skyrim.esm
+01. Update.esm
+02. Dawnguard.esm
+03. Hearthfires.esm
+04. Dragonborn.esm
+05. Lanterns Of Skyrim - All In One - Main.esm
+06. Unofficial Skyrim Special Edition Patch.esp
+07. SMIM-SE-Merged-All.esp
+08. SGEyebrows.esp
+09. Hothtrooper44_Armor_Ecksstra.esp
+0A. Realistic Lighting Overhaul - Major City Interiors.esp
+0B. Realistic Lighting Overhaul - Minor Cities and Town Interiors.esp
+0C. RealisticWaterTwo.esp
+0D. Realistic Lighting Overhaul - Major City Exteriors.esp
+0E. Realistic Lighting Overhaul - Dawnguard Interiors.esp
+0F. IcePenguinWorldMap.esp
+10. Book Covers Skyrim.esp
+11. Realistic Lighting Overhaul - Dungeons.esp
+12. Hothtrooper44_ArmorCompilation.esp
+13. Skyrim Flora Overhaul.esp
+14. Realistic Lighting Overhaul - Weathers.esp
+15. Realistic Lighting Overhaul - Dawnguard Weathers.esp
+16. Unique Uniques.esp
+17. Alternate Start - Live Another Life.esp
 ```
