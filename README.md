@@ -2,7 +2,7 @@
 
 Hello and welcome to px3l's ultimate modding guide for Elder Scrolls V: Skyrim. This guide is born out of a love for the game and a desire to make it totally immersive and un-ending. It is written for me to be able to re-mod the game to my perfection. If anyone else gets use out of it, then great!
 
-![skyrim-mod-banner](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![skyrim-mod-banner](https://github.com/px3l/skyrim-mod-guide/blob/master/assets/banner.png)
 
 #### PC Specs
 
@@ -21,5 +21,5 @@ Cooling: Full watercooled loop
 
 Firstly, make sure you download Nexus Mod Manager and Skyrim Script Extender
 
-Unofficial Skyrim Legendary Edition Patch: http://www.nexusmods.com/skyrim/mods/71214
-Bug fixes: http://www.nexusmods.com/skyrim/mods/76747
+[Unofficial Skyrim Legendary Edition Patch](http://www.nexusmods.com/skyrim/mods/71214)
+[Bug fixes](http://www.nexusmods.com/skyrim/mods/76747)
